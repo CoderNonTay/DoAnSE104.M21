@@ -1,0 +1,71 @@
+C:\Users\phung\OneDrive\Máy tính\PTTK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\phung\OneDrive\Máy tính\PTTK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\phung\OneDrive\Máy tính\PTTK\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\phung\OneDrive\Máy tính\PTTK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QLTS.csproj.AssemblyReference.cache
+C:\Users\phung\OneDrive\Máy tính\PTTK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QLTS.csproj.SuggestedBindingRedirects.cache
+C:\Users\phung\OneDrive\Máy tính\PTTK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fLogin.resources
+C:\Users\phung\OneDrive\Máy tính\PTTK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\phung\OneDrive\Máy tính\PTTK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QLTS.csproj.GenerateResource.cache
+C:\Users\phung\OneDrive\Máy tính\PTTK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QLTS.csproj.CoreCompileInputs.cache
+C:\Users\phung\OneDrive\Máy tính\PTTK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\phung\OneDrive\Máy tính\PTTK\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\netpr\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\netpr\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\netpr\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\netpr\source\repos\WindowsFormsApp1\obj\Debug\QLTS.csproj.AssemblyReference.cache
+C:\Users\netpr\source\repos\WindowsFormsApp1\obj\Debug\QLTS.csproj.SuggestedBindingRedirects.cache
+C:\Users\netpr\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\netpr\source\repos\WindowsFormsApp1\obj\Debug\QLTS.csproj.GenerateResource.cache
+C:\Users\netpr\source\repos\WindowsFormsApp1\obj\Debug\QLTS.csproj.CoreCompileInputs.cache
+C:\Users\netpr\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\netpr\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\netpr\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\netpr\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PhieuMua.resources
+C:\Users\netpr\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PhieuBan.resources
+C:\Users\netpr\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fLogin.resources
+C:\Users\netpr\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MenuDV.resources
+C:\Users\netpr\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PhieuDV.resources
+C:\Users\netpr\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DSPhieuDV.resources
+C:\Users\netpr\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BaoCaoKho.resources
+C:\Users\netpr\source\repos\WindowsFormsApp1\bin\Debug\Program.cs
+C:\Users\netpr\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin.resources
+C:\Users\phung\Downloads\WindowsFormsApp1\bin\Debug\Program.cs
+C:\Users\phung\Downloads\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\phung\Downloads\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\phung\Downloads\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\phung\Downloads\WindowsFormsApp1\obj\Debug\QLTS.csproj.AssemblyReference.cache
+C:\Users\phung\Downloads\WindowsFormsApp1\obj\Debug\QLTS.csproj.SuggestedBindingRedirects.cache
+C:\Users\phung\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin.resources
+C:\Users\phung\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BaoCaoKho.resources
+C:\Users\phung\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fLogin.resources
+C:\Users\phung\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DSPhieuDV.resources
+C:\Users\phung\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MenuDV.resources
+C:\Users\phung\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\phung\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PhieuBan.resources
+C:\Users\phung\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PhieuDV.resources
+C:\Users\phung\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PhieuMua.resources
+C:\Users\phung\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\phung\Downloads\WindowsFormsApp1\obj\Debug\QLTS.csproj.GenerateResource.cache
+C:\Users\phung\Downloads\WindowsFormsApp1\obj\Debug\QLTS.csproj.CoreCompileInputs.cache
+C:\Users\phung\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\phung\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Học tập\Phần mềm\WindowsFormsApp1\bin\Debug\Program.cs
+D:\Học tập\Phần mềm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Học tập\Phần mềm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Học tập\Phần mềm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Học tập\Phần mềm\WindowsFormsApp1\obj\Debug\QLTS.csproj.AssemblyReference.cache
+D:\Học tập\Phần mềm\WindowsFormsApp1\obj\Debug\QLTS.csproj.SuggestedBindingRedirects.cache
+D:\Học tập\Phần mềm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin.resources
+D:\Học tập\Phần mềm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BaoCaoKho.resources
+D:\Học tập\Phần mềm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fLogin.resources
+D:\Học tập\Phần mềm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DSPhieuDV.resources
+D:\Học tập\Phần mềm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MenuDV.resources
+D:\Học tập\Phần mềm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+D:\Học tập\Phần mềm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PhieuBan.resources
+D:\Học tập\Phần mềm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PhieuDV.resources
+D:\Học tập\Phần mềm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PhieuMua.resources
+D:\Học tập\Phần mềm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Học tập\Phần mềm\WindowsFormsApp1\obj\Debug\QLTS.csproj.GenerateResource.cache
+D:\Học tập\Phần mềm\WindowsFormsApp1\obj\Debug\QLTS.csproj.CoreCompileInputs.cache
+D:\Học tập\Phần mềm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Học tập\Phần mềm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
